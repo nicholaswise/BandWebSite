@@ -1,2 +1,13 @@
 ﻿body {
+    background-image: url('Images/alt-j.jpg');
+    font-family: 'Fjalla One', sans-serif; 
+}
+a{
+     color: #BBE6FF;
+     text-decoration:none;
+}
+
+a:hover {
+    color: floralwhite;
+    text-decoration: none;
 }
